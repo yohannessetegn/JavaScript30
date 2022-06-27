@@ -1,0 +1,2343 @@
+[33mcommit 65f2fb008eea73a0153911defe29766a29177e2e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: yohannesnan <yohannessetegn18@gmail.com>
+Date:   Mon Jun 27 17:39:01 2022 +0300
+
+    followed the tutorial half way undrstood
+
+[33mcommit d6e74c156accdef155487f1dc3a484c1f8a59a05[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 8966f8d fb7eed5
+Author: Palash Mondal <palashm@live.in>
+Date:   Fri Jan 28 12:24:59 2022 +0530
+
+    Merge pull request #499 from ManuKashyap01/patch-1
+
+[33mcommit fb7eed536016ad4d3dd7555ce5bce72598f52d88[m
+Author: Manu kashyap <76866512+ManuKashyap01@users.noreply.github.com>
+Date:   Thu Jan 27 19:35:19 2022 +0530
+
+    Update style.css
+    
+    removed empty input[type="select"] {} style tag
+
+[33mcommit 8966f8df38eec41314f313dc82d0689ec1fc679d[m
+Merge: 09e3480 8a3ea7a
+Author: Palash Mondal <palashm@live.in>
+Date:   Tue Jun 22 20:59:52 2021 +0530
+
+    Merge pull request #422 from filipkowal/patch-2
+
+[33mcommit 8a3ea7ae41c03b120869c3620f7922664e1a03f7[m
+Merge: a13c40f 09e3480
+Author: filipkowal <filip.kowal@protonmail.com>
+Date:   Tue Jun 22 11:27:20 2021 +0200
+
+    Merge branch 'master' into patch-2
+
+[33mcommit 09e3480c77a2004b44f435684bb354b65442bcff[m
+Merge: 6559518 1c43237
+Author: Palash Mondal <palashm@live.in>
+Date:   Sat Jun 5 16:49:54 2021 +0530
+
+    Merge pull request #465 from Maheshkumar-novice/patch-1
+
+[33mcommit 1c4323737812b0da9eebd7fa83c57bc06e73ab92[m
+Author: Maheshkumar P <67100964+Maheshkumar-novice@users.noreply.github.com>
+Date:   Sat Jun 5 15:44:57 2021 +0530
+
+    Remove unnecessary <p> tag
+
+[33mcommit 6559518d955ab3fe2b08111a511d9fd1df60e9bc[m
+Merge: 296d46a b076d22
+Author: Palash Mondal <palashm@live.in>
+Date:   Sat Apr 24 21:07:45 2021 +0530
+
+    Merge pull request #431 from MoSaif00/merge-Conflict-solve
+
+[33mcommit b076d2281af484870cc361a3cadb5ff6689df818[m
+Merge: bc069d5 296d46a
+Author: Mohammed Saif <69274977+MoSaif00@users.noreply.github.com>
+Date:   Fri Apr 23 21:00:45 2021 +0200
+
+    Merge branch 'master' into merge-Conflict-solve
+
+[33mcommit 296d46a085388b783e2f252ff006e72e24a11f96[m
+Merge: ce2c7e6 b87957c
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Wed Apr 7 13:53:39 2021 -0400
+
+    Merge pull request #454 from stiaannel/master
+    
+    Update readme.md
+
+[33mcommit b87957cc9209361f652d8a1ee3f262bac9939a84[m
+Author: Chris <57043253+stiaannel@users.noreply.github.com>
+Date:   Wed Apr 7 19:22:55 2021 +0200
+
+    Update readme.md
+
+[33mcommit bc069d5a43f1d23f112fc3d3baddc12c0cc0fb35[m
+Author: Mohammed Saif <69274977+MoSaif00@users.noreply.github.com>
+Date:   Mon Feb 1 02:14:19 2021 +0100
+
+    Update readme.md
+
+[33mcommit a13c40f505a8eec582b0e0ece3f66358440b3e2e[m
+Author: filipkowal <filip.kowal@protonmail.com>
+Date:   Mon Dec 21 23:54:40 2020 +0100
+
+    Add a link to a fix of panels' deactivation
+    
+    Before, a panel would stay activated even when a new one was clicked. Now it deactivates so that always only one is activated.
+
+[33mcommit ce2c7e630b0de1b63f4380888dcd529db7e711f1[m
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Thu Dec 17 09:49:23 2020 -0500
+
+    Update style.css
+
+[33mcommit 8fa8dd715572f7290275fa8bcbd454f29d232a04[m
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Thu Dec 17 09:46:52 2020 -0500
+
+    Add files via upload
+
+[33mcommit ac5ce1a3ccc2255cec56ad07cd9e233a83030fc4[m
+Merge: b21b66f 80ec671
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Tue Oct 20 09:56:16 2020 -0400
+
+    Merge pull request #406 from lillapulay/master
+    
+    Suggestion for 'people' array of day 4
+
+[33mcommit 80ec67114e6f244a823052f2b2ae795608725fc2[m
+Author: Lilla Pulay <pulaylilla@gmail.com>
+Date:   Tue Oct 20 15:49:35 2020 +0200
+
+    Mixed the order of items in the 'people' array
+    
+    The original order was the same at the solution to exercise 7 in the file, thus I think the difference couldn't be seen properly.
+
+[33mcommit bf1d9148c4e3a24463ad1de6c943fde83ef9ebeb[m
+Author: Lilla Pulay <pulaylilla@gmail.com>
+Date:   Tue Oct 20 15:45:10 2020 +0200
+
+    Mixed the order of items in the 'people' array
+    
+    The original order was the same at the solution to exercise 7 in the file, thus I think the difference couldn't be seen properly.
+
+[33mcommit b21b66ffda0675344deabd7f8202745535793f08[m
+Merge: 1afca64 50f2492
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Thu Sep 10 20:03:14 2020 -0400
+
+    Merge pull request #368 from novibonjovi/master
+    
+    Added quotes around background URL
+
+[33mcommit 1afca6447d6312f8e9266384eb6c53a6f726984d[m
+Merge: d6a3a6e d8f4cc5
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Thu Sep 10 20:02:21 2020 -0400
+
+    Merge pull request #373 from FriscoTony/tinyfix
+    
+    Changed broken header background image to suitable replacement from unsplash.com (foggy lake scene)
+
+[33mcommit d6a3a6eb2a4df0c3fb495b8eb5502c0e8ac2521f[m
+Merge: a584dc2 1a66a6f
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Thu Sep 10 20:01:31 2020 -0400
+
+    Merge pull request #379 from Eduardo06sp/master
+    
+    Fix sound not playing by lengthening audio file
+
+[33mcommit a584dc2d9ecef80d9379489a118d5bc8e98405dc[m
+Merge: b1f85a6 b23d144
+Author: Palash Mondal <palashm@live.in>
+Date:   Mon Aug 24 21:17:40 2020 +0530
+
+    Merge pull request #381 from gupta-ji6/master
+
+[33mcommit b23d1443adc9ba95272b578802bc311898ba403f[m
+Author: Ayush Gupta <ayushgupta197@gmail.com>
+Date:   Mon Aug 24 20:55:18 2020 +0530
+
+    Move the link to last index
+
+[33mcommit c24e6bdd78c0db19742364f05dcef7d628dbac02[m
+Author: Ayush Gupta <ayushgupta197@gmail.com>
+Date:   Mon Aug 24 18:49:19 2020 +0530
+
+    Add a link in community resource
+    
+    Added Ayush Gupta's implementation of JavaScript30 challenge with some add-ons & updated design.
+
+[33mcommit 1a66a6f1a5f8302fdb272cd4d70aa59cf78a44b7[m
+Author: Eduardo Pelaez Alvarado <eduardopelaez@pm.me>
+Date:   Tue Aug 4 23:56:08 2020 -0700
+
+    Fix sound not playing by lengthening audio file
+
+[33mcommit b1f85a6392d046e892a8ba4d3f236026185c55d1[m
+Author: Palash Mondal <palashm@live.in>
+Date:   Mon Jul 13 15:45:15 2020 +0530
+
+    docs: update few repo links
+
+[33mcommit d30e12610216f8136488a93efc1225e65451d0eb[m
+Merge: 97f59c2 891150d
+Author: Palash Mondal <palashm@live.in>
+Date:   Mon Jul 13 15:42:31 2020 +0530
+
+    Merge pull request #374 from RegusAl/patch-1
+    
+    Update readme.md
+
+[33mcommit 891150d9404c922053343bde1610d96a1c68c05b[m
+Author: Regus Albert <58109405+RegusAl@users.noreply.github.com>
+Date:   Mon Jul 13 11:57:21 2020 +0300
+
+    Update readme.md
+
+[33mcommit d8f4cc540be648f00b61355114e15d830e4f64d5[m
+Author: Tony Grant <tonygrant@gmail.com>
+Date:   Fri Jul 10 10:38:25 2020 -0700
+
+    Changed broken header background image to suitable replacement from unsplash.com (foggy lake scene)
+
+[33mcommit 50f2492fd75906bd296c76ad950e3fb83526c1b8[m
+Author: Novak <52179178+novibonjovi@users.noreply.github.com>
+Date:   Sat Jun 13 01:03:16 2020 +0200
+
+    Added quotes around background URL
+    
+    The background image did not show without the quotes around the URL.
+
+[33mcommit 97f59c236b39d602c5a914a8917dce20bc5fb2af[m
+Merge: 047370e d47e3a3
+Author: Palash Mondal <palashm@live.in>
+Date:   Sun May 31 19:12:37 2020 +0530
+
+    Merge pull request #366 from eshanvohra/patch-3
+    
+    Update readme.md
+
+[33mcommit d47e3a3cd760b371a1968c4cdcb8b0bce7d3c9b0[m
+Author: Eshan Vohra <48545439+eshanvohra@users.noreply.github.com>
+Date:   Sun May 31 12:53:21 2020 +0530
+
+    Update readme.md
+
+[33mcommit 047370e95001bc09a683d5ebdc250ae6e9efe4d8[m
+Merge: 6ad5a36 2d58e51
+Author: Palash Mondal <palashm@live.in>
+Date:   Mon May 25 18:35:42 2020 +0530
+
+    Merge pull request #361 from Mugilan-Codes/patch-1
+
+[33mcommit 2d58e51325d3547f8f8b68f2adc8b08f09a0e566[m
+Author: Mugilan <54710363+Mugilan-Codes@users.noreply.github.com>
+Date:   Mon May 25 14:31:24 2020 +0530
+
+    Updated my previous commit
+    
+    Updated and Moved my name to the last of the list
+
+[33mcommit 43029cc2517e64f1780f90ef6440def3d5514ff2[m
+Author: Mugilan <54710363+Mugilan-Codes@users.noreply.github.com>
+Date:   Fri May 22 22:49:36 2020 +0530
+
+    Add Mugilan's Solution
+    
+    Adding Mugilan's Solutions for the Challenge
+
+[33mcommit 6ad5a36e31518917807652e4e62fefe3199472fc[m
+Merge: c90bf52 5c513eb
+Author: Palash Mondal <palashm@live.in>
+Date:   Wed May 20 13:34:20 2020 +0530
+
+    Merge pull request #359 from ALMaclaine/master
+
+[33mcommit 5c513eb71c42d3dda6d7a02bbfd8a87fd529a54b[m
+Author: Alessandro Maclaine <almaclaine@gmail.com>
+Date:   Tue May 19 20:37:11 2020 -0700
+
+    add Dart 2.0 version
+    
+    add Dart 2.0 version
+
+[33mcommit c90bf52eb5d53b96709f4f9768cc0ee03e3631c5[m
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Tue May 19 15:22:13 2020 -0400
+
+    update snap location
+
+[33mcommit 1f1f6f5b2f2c00e401555df553368dddedfd3bee[m
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Tue May 19 15:21:46 2020 -0400
+
+    Add snap locally
+
+[33mcommit 0653c6c9261bf58e3bd4fe7c4af77bc80c3b2183[m
+Merge: 58c27ef 1454b54
+Author: Palash Mondal <palashm@live.in>
+Date:   Tue May 5 15:51:05 2020 +0530
+
+    Merge pull request #353 from vanribeiro/master
+
+[33mcommit 1454b542f28df0d0fc554830f01e776acedb9cab[m
+Merge: a9e4639 58c27ef
+Author: Van Ribeiro <vanribeiro.dev@gmail.com>
+Date:   Tue May 5 01:05:08 2020 -0300
+
+    Merge branch 'master' into master
+
+[33mcommit a9e463933db67cba143ab7609127ee795b548c66[m
+Author: Vanessa Ribeiro <vanribeiro.dev@gmail.com>
+Date:   Tue May 5 00:59:07 2020 -0300
+
+    correct my info links.
+
+[33mcommit 9d6c8b705aa3321b59114886b816f4d2fc781931[m
+Author: Nailson Landim <nailsonlinux@gmail.com>
+Date:   Sat Apr 25 20:08:19 2020 -0300
+
+    Broken link on background image of Lesson 15.
+
+[33mcommit e62239b2b84fb2b01be7d2756dcc1af0cd780e2a[m
+Author: Akash Raju M <akashrajum7@gmail.com>
+Date:   Mon Jan 13 16:39:29 2020 +0530
+
+    Update the url of background image to https
+
+[33mcommit ddb8448d1a5b7562acada29c5e000abd917b0916[m
+Author: sescobar99 <santi.e.c@hotmail.com>
+Date:   Tue Apr 21 15:41:21 2020 -0500
+
+    update readme.md
+
+[33mcommit 83bd83106af3cac775431f7045c54a045c799b9a[m
+Author: 謝育能(Harry Xie) <snh90100@gmail.com>
+Date:   Sun Mar 29 21:22:04 2020 +0800
+
+    add my all practices link to README.md
+    
+    awesome course!!
+    thinks wesbos~~
+
+[33mcommit 409726c543035c98000f7c93fb63d6d50f555a68[m
+Author: Vanessa Ribeiro <vanribeiro.dev@gmail.com>
+Date:   Thu Apr 30 20:43:01 2020 -0300
+
+    doc(readme.md): add link with demos, recaps and guides.
+
+[33mcommit 58c27ef54f4b91f9bc69c327c5be41f867490795[m
+Merge: a8f8806 654fce1
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Sun Apr 26 09:57:04 2020 -0400
+
+    Merge pull request #351 from nailsonlinux/master
+    
+    Broken link on background image of Lesson 15.
+
+[33mcommit a8f8806eca07eeb2b8e77e9249c2052325854b7b[m
+Merge: fa0d570 6ae39c3
+Author: Palash Mondal <palashm@live.in>
+Date:   Sun Apr 26 10:33:33 2020 +0530
+
+    Merge pull request #343 from a90100/patch-1
+
+[33mcommit 6ae39c3dda9c8a115d690b6dbd18c27a84835448[m
+Merge: f57ca42 fa0d570
+Author: Palash Mondal <palashm@live.in>
+Date:   Sun Apr 26 10:32:57 2020 +0530
+
+    Merge branch 'master' into patch-1
+
+[33mcommit fa0d57007f286eb26c10a0f4552143e1d900363c[m
+Merge: 334e8a6 aeb1ad8
+Author: Palash Mondal <palashm@live.in>
+Date:   Sun Apr 26 10:21:24 2020 +0530
+
+    Merge pull request #324 from akashrajum7/patch-2
+
+[33mcommit 654fce1c58e46f751cb0e8ed68c43f092794b909[m
+Author: Nailson Landim <nailsonlinux@gmail.com>
+Date:   Sat Apr 25 20:08:19 2020 -0300
+
+    Broken link on background image of Lesson 15.
+
+[33mcommit 334e8a6e99421275a4dab4f29fcf299c3b8a2b6f[m
+Merge: 053775b 2a86c5e
+Author: Palash Mondal <palashm@live.in>
+Date:   Wed Apr 22 09:28:28 2020 +0530
+
+    Merge pull request #349 from sescobar99/master
+    
+    update readme.md
+
+[33mcommit 2a86c5e995c8f284cb23fdaefc4835a3477f63d2[m
+Author: sescobar99 <santi.e.c@hotmail.com>
+Date:   Tue Apr 21 15:41:21 2020 -0500
+
+    update readme.md
+
+[33mcommit f57ca428fab6eadbe7425d28ba22ccee869a3d8c[m
+Author: 謝育能(Harry Xie) <snh90100@gmail.com>
+Date:   Sun Mar 29 21:22:04 2020 +0800
+
+    add my all practices link to README.md
+    
+    awesome course!!
+    thinks wesbos~~
+
+[33mcommit 053775be764fa89f52456332aa93f43f36bb321d[m
+Merge: 7068292 439ecc9
+Author: Palash Mondal <palashm@live.in>
+Date:   Fri Mar 6 22:59:11 2020 +0530
+
+    Merge pull request #338 from wwags33/patch-1
+    
+    Adding my TypeScript implementation to the readme
+
+[33mcommit 439ecc9179b7698be004bedff91185ae67428ef2[m
+Author: William Wager <wwags33@gmail.com>
+Date:   Thu Mar 5 18:23:21 2020 -0500
+
+    Adding my TypeScript implementation to the readme
+
+[33mcommit 7068292ba4a927cafd73b64bb3603e12ea336190[m
+Merge: f3f7116 0caf831
+Author: Palash Mondal <palashm@live.in>
+Date:   Wed Feb 12 09:43:02 2020 +0530
+
+    Merge pull request #332 from dev-oswld/patch-1
+    
+    Fix typo
+
+[33mcommit 0caf831957c603387d2d84437c74c6d6bc6ee4ac[m
+Author: Oswld TC <40254158+dev-oswld@users.noreply.github.com>
+Date:   Tue Feb 11 21:30:29 2020 -0600
+
+    Fix typo
+
+[33mcommit f3f71161d63fb3adb32abbfd2442b0bc66c33a3e[m
+Merge: c745351 8dafa2d
+Author: Palash Mondal <palashm@live.in>
+Date:   Mon Jan 20 12:45:06 2020 +0530
+
+    Update readme.md (#327)
+    
+    Update readme.md
+
+[33mcommit 8dafa2d56fe3556061338377352a347831e9842b[m
+Author: ramon morcillo <ramonmorcillocascales@gmail.com>
+Date:   Sun Jan 19 20:15:50 2020 +0100
+
+    update readme.md
+
+[33mcommit c745351ccb328b74a4e35e8d0b84e06d88973f03[m
+Merge: 681af58 5629abe
+Author: Palash Mondal <palashm@live.in>
+Date:   Wed Jan 15 17:52:09 2020 +0530
+
+    Remove apostrophe to make comment consistent (#326)
+    
+    Remove apostrophe to make comment consistent
+
+[33mcommit 5629abe1f43ada6d4814315aab57916b33771aa1[m
+Author: Akash Raju M <akashrajum7@gmail.com>
+Date:   Wed Jan 15 14:48:28 2020 +0530
+
+    Remove apostrophe to make comment consistent
+
+[33mcommit 681af58d38c041885862318a3e851dd787a6f410[m
+Merge: 34198ef d366e4e
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Jan 13 09:33:19 2020 -0500
+
+    Merge pull request #325 from akashrajum7/patch-3
+    
+    Update the url of background image to https
+
+[33mcommit d366e4e13b4f24f036c92755dd575e9e28be5a74[m
+Author: Akash Raju M <akashrajum7@gmail.com>
+Date:   Mon Jan 13 16:41:14 2020 +0530
+
+    Update the url of background image to https
+
+[33mcommit aeb1ad8bde833b0f41941a04185f5967e1c2e804[m
+Author: Akash Raju M <akashrajum7@gmail.com>
+Date:   Mon Jan 13 16:39:29 2020 +0530
+
+    Update the url of background image to https
+
+[33mcommit 34198efbe17e8c98ab68a623c968d23ede007c59[m
+Merge: 87f82b1 4498812
+Author: Palash Mondal <palashm@live.in>
+Date:   Mon Jan 13 09:57:29 2020 +0530
+
+    Update the url of background image to https (#323)
+    
+    Update the url of background image to https
+
+[33mcommit 44988127f726a649c34fed6587179a8293dae8a8[m
+Author: Akash Raju M <akashrajum7@gmail.com>
+Date:   Sun Jan 12 13:17:49 2020 +0530
+
+    Updating the url of background image to https
+    
+    In order to avoid mixed content(https://www.cloudflare.com/learning/ssl/what-is-mixed-content/) error, we can update the URL from HTTP to HTTPS.
+
+[33mcommit 87f82b1cfa0a9ee8c3683061f45a483cf73044b6[m
+Merge: 08dd8d8 8a604be
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Jan 6 10:32:17 2020 -0500
+
+    Merge pull request #303 from andrerfcsantos/master
+    
+    [Day 19] Make request to snap.mp3 via HTTPS instead of HTTP
+
+[33mcommit 08dd8d8be104adc675992f4dd01c0046cbf19566[m
+Merge: 8bcc675 370e8e6
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Jan 6 10:31:32 2020 -0500
+
+    Merge pull request #304 from marcoSven/add-solution-bug-fix-for-10-to-readme
+    
+    🐞 fix for  10 - Hold Shift and ...
+
+[33mcommit 8bcc675636452b8c051fa0b80a9fb9bc3f0f476b[m
+Merge: dc49479 3412a95
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Jan 6 10:30:58 2020 -0500
+
+    Merge pull request #311 from yudi43/patch-1
+    
+    Update index-START.html
+
+[33mcommit 3412a95774b1e5b5f0d92e583ffe99b58dcff289[m
+Author: Yudhishthir Singh <singh.yudi10@gmail.com>
+Date:   Mon Oct 14 07:57:21 2019 +0530
+
+    Update index-START.html
+    
+    This was confusing
+
+[33mcommit dc49479436de1712d37a196c48cb784dca61f8c1[m
+Merge: 0023c9b 4da2ea4
+Author: Palash Mondal <palashm@live.in>
+Date:   Thu Oct 10 09:29:30 2019 +0530
+
+    Update readme.md (#310)
+    
+    Update readme.md
+
+[33mcommit 4da2ea4f5057a86456c442d158419a7d5d768abf[m
+Author: Mikhail Thomas <seckela@users.noreply.github.com>
+Date:   Wed Oct 9 14:59:11 2019 -0700
+
+    Update readme.md
+    
+    Added Mikhail Thomas to community list
+
+[33mcommit 0023c9b88689fd492b2375bc7dba5bb8a3565a33[m
+Merge: 359b569 11531c6
+Author: Palash Mondal <palashm@live.in>
+Date:   Mon Oct 7 20:29:48 2019 +0530
+
+    Merge pull request #309 from ramigs/fix-challenge-12-cornify-https
+    
+    Replacing http by https in cornify.js
+
+[33mcommit 11531c66e7c5e63c9b43910e313281110f762e1d[m
+Author: ramigs <ramigs@gmail.com>
+Date:   Thu Oct 3 16:37:24 2019 +0100
+
+    Replacing http by https in cornify.js import, to avoid insecure mixed content issues in some hosting providers
+
+[33mcommit 370e8e631303c70c0e4248de52d91bf9e6c61598[m
+Author: marcoSven <me@marcosven.com>
+Date:   Wed Aug 21 14:01:45 2019 -0700
+
+    🐞 fix for  10 - Hold Shift and ...
+    
+    Adding a link to a different solution for 10 - Hold Shift and Check Checkboxes.
+    Fixed bugs and improved UX.
+
+[33mcommit 8a604bee29bb52ceb68a72875182e9d4672e8b6e[m
+Author: André Santos <andrerfcsantos@gmail.com>
+Date:   Mon Aug 5 23:07:31 2019 +0100
+
+    [Day 19] Make request to snap.mp3 via HTTPS instead of HTTP
+
+[33mcommit 359b569e481fc10967db770a1d3042a5dfaf67aa[m
+Merge: d2114a9 ee0587d
+Author: Palash Mondal <palashm@live.in>
+Date:   Thu Jun 20 21:38:30 2019 +0530
+
+    Merge pull request #296 from Alex-K1m/update
+    
+    update community content list
+
+[33mcommit ee0587daaa913c7fa9bab73645ecd181100e0dc1[m
+Author: Alex-K1m <45559664+Alex-K1m@users.noreply.github.com>
+Date:   Thu Jun 20 20:56:16 2019 +0500
+
+    update community content list
+    
+    add Alex Kim solutions
+
+[33mcommit d2114a96cc0ff1ac35afe1f14648cfeb863af102[m
+Author: Palash Mondal <palashm@live.in>
+Date:   Fri Jun 14 09:11:49 2019 +0530
+
+    Fix background image url
+
+[33mcommit 4b256860e03c183ca980dd1f850ca1bc6a2fa59a[m
+Merge: 63775de e26a195
+Author: Palash Mondal <palashm@live.in>
+Date:   Fri Jun 14 09:10:18 2019 +0530
+
+    Merge pull request #293 from projectLewis/day2backgroundimg
+    
+    Fix background image url
+
+[33mcommit e26a1959dbcfede3226f8ce2994bcda7e1f9a9f4[m
+Author: Seth Lewis <lewiscatenary@gmail.com>
+Date:   Thu Jun 13 17:18:29 2019 -0500
+
+    removed my workspaces formatting and dropped 0 from background image url on day2
+
+[33mcommit 23ad2c8ccf5a6236cf267c039a6d667cff715e80[m
+Author: Seth Lewis <lewiscatenary@gmail.com>
+Date:   Thu Jun 13 17:12:15 2019 -0500
+
+    removed 0 from end of backgroundimage url in day2
+
+[33mcommit 63775de0ea1f4e848b7157584727998c430e2bb1[m
+Merge: da18386 ee4c2ab
+Author: Palash Mondal <palashm@live.in>
+Date:   Thu Feb 21 17:15:40 2019 +0530
+
+    Merge pull request #275 from ianjmacintosh/fix-casing-on-exercise-16
+    
+    Make Exercise 16 filenames consistent
+
+[33mcommit ee4c2ab87f03487742005a085d32ed84c0913a1a[m
+Author: Ian MacIntosh <ianjmacintosh@gmail.com>
+Date:   Wed Feb 20 23:10:24 2019 -0500
+
+    🕵🏻‍♂️ Make Exercise 16 filenames consistent
+    
+    All the other exercises have the index file named as "index-START.html"
+    and "index-FINISHED.html"
+    
+    Making this exercise's filenames consistent with the rest
+
+[33mcommit da18386c0f49fb8d8dc6346367b807cc2e5d589a[m
+Merge: b5a9811 b12be38
+Author: Palash Mondal <palashm@live.in>
+Date:   Tue Feb 12 22:01:33 2019 +0530
+
+    Merge pull request #274 from vanntile/patch-1
+    
+    VannTile's JavaScript30 implementation
+
+[33mcommit b12be384889bc2fda7d753453012a201f550b177[m
+Author: Valentin Ionita <33692650+vanntile@users.noreply.github.com>
+Date:   Tue Feb 12 12:55:37 2019 +0200
+
+    VannTile's JavaScript30 implementation
+
+[33mcommit b5a98116174f4530931ff60d355d62ccd9e1873d[m
+Merge: fdf0e3e 954382b
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Thu Jan 3 10:03:42 2019 -0500
+
+    Merge pull request #262 from Ememme/Ememme-patch-3
+    
+    Fix typo
+
+[33mcommit 954382b93f005eb8eabbc30d225607d224419ae4[m
+Author: Magda <Magda.mieczynska@gmail.com>
+Date:   Thu Jan 3 15:48:32 2019 +0100
+
+    Fix typo
+
+[33mcommit fdf0e3e72fab075a3c6674e1223540da62fe6454[m
+Merge: 6df5ee5 14927a4
+Author: Palash Mondal <palashm@live.in>
+Date:   Thu Dec 20 21:45:44 2018 +0530
+
+    Merge pull request #260 from shahroozme/patch-1
+    
+    removed extra spaces.
+
+[33mcommit 14927a4c3f358a3f81f9afdb7d8d0be2ce7052b0[m
+Author: Shahrooz Alimoradi <33348237+shahroozme@users.noreply.github.com>
+Date:   Thu Dec 20 15:02:22 2018 +0330
+
+    Removed spaces
+
+[33mcommit 6df5ee5cecfedda3851b2ee60c54eabddae169de[m
+Merge: f8daf5f 5f04b4a
+Author: Palash Mondal <palashm@live.in>
+Date:   Tue Dec 11 18:00:56 2018 +0530
+
+    Merge pull request #256 from Ememme/Ememme-patch-2
+    
+    Fix typos on index-FINISHED.html
+
+[33mcommit f8daf5f8e8a569c48d8232c17ff231629551c9ec[m
+Merge: dbacabb 944331a
+Author: Palash Mondal <palashm@live.in>
+Date:   Tue Dec 11 09:01:43 2018 +0530
+
+    Merge pull request #255 from Ememme/Ememme-patch-1
+    
+    Fix typo in index-START.html
+
+[33mcommit 5f04b4a2df6562feaaa7fae00c73d6a541199223[m
+Author: Magda <Magda.mieczynska@gmail.com>
+Date:   Mon Dec 10 16:49:00 2018 +0100
+
+    Fix typos on index-FINISHED.html
+
+[33mcommit 944331acb044bb585ec4d04f340977719e9a85b9[m
+Author: Magda <Magda.mieczynska@gmail.com>
+Date:   Mon Dec 10 16:31:55 2018 +0100
+
+    Fix typo in index-START.html
+
+[33mcommit dbacabbc16584c2e6506843293b0c51b01f4309b[m
+Merge: ca27dce 895b39e
+Author: Palash Mondal <palashm@live.in>
+Date:   Thu Nov 29 18:32:11 2018 +0530
+
+    Merge pull request #250 from shahroozme/patch-1
+    
+    Removed extra space before the closing body tag
+
+[33mcommit ca27dce11baf324af6d2f619ac0bc640ed7bb376[m
+Merge: 0e43f7a da693df
+Author: Palash Mondal <palashm@live.in>
+Date:   Thu Nov 29 18:30:45 2018 +0530
+
+    Merge pull request #251 from shahroozme/patch-1
+    
+    Removed extra spaces in style css file
+
+[33mcommit da693dfc3656e1f3eb3ab5a165e655f7dd18c397[m
+Author: Shahrooz Alimoradi <33348237+shahroozme@users.noreply.github.com>
+Date:   Thu Nov 29 11:30:50 2018 +0330
+
+    Removed spaces
+
+[33mcommit 895b39eaf81960b504cd95fd03600df6b8e6187c[m
+Author: Shahrooz Alimoradi <33348237+shahroozme@users.noreply.github.com>
+Date:   Thu Nov 29 11:13:15 2018 +0330
+
+    Removed space
+
+[33mcommit 0e43f7aa482ef2cc968e77d4f892e3e4cd68e6a1[m
+Merge: ee773a2 c3d0194
+Author: Palash Mondal <palashm@live.in>
+Date:   Fri Nov 16 09:11:11 2018 +0530
+
+    Merge pull request #249 from endormi/patch-2
+    
+    Fix typo
+
+[33mcommit c3d01940fdb15afb52ce4bb26a9f352f83ba70db[m
+Author: Erno Salo <39559256+endormi@users.noreply.github.com>
+Date:   Mon Nov 5 13:51:47 2018 +0200
+
+    Fix typo
+
+[33mcommit ee773a23b53c3361b46f3f56b47e8f239940ba08[m
+Merge: 73396b6 2044cfb
+Author: Palash Mondal <palashm@live.in>
+Date:   Tue Oct 30 21:55:54 2018 +0530
+
+    Merge pull request #248 from endormi/patch-1
+    
+    Added @media to make the paragraph smaller for mobile
+
+[33mcommit 2044cfb41b593cb2846587961afed5b380367af2[m
+Author: Palash Mondal <palashm@live.in>
+Date:   Tue Oct 30 21:55:03 2018 +0530
+
+    Update CSS indentation
+
+[33mcommit 33fa1dfa42f5b97950e4852ea2f916ff5dccff9e[m
+Author: Erno Salo <39559256+endormi@users.noreply.github.com>
+Date:   Tue Oct 30 12:48:53 2018 +0200
+
+    Added @media to make the paragraph smaller for mobile
+
+[33mcommit 73396b64eefb64ea25175046150ef7aeaf4fd729[m
+Merge: 7d8289c 3f7fad6
+Author: Palash Mondal <palashm@live.in>
+Date:   Mon Oct 22 16:10:05 2018 +0530
+
+    Merge pull request #244 from tricinel/typescript-implementation
+    
+    Add link to implementation in TypeScript
+
+[33mcommit 3f7fad666aece48fa24be513d5af75f6c3435fbf[m
+Author: tricinel <bogdan@bogdanlazar.com>
+Date:   Fri Oct 5 20:39:16 2018 +0200
+
+    Add link to implementation in TypeScript
+    
+    While learning TypeScript, I thought what better way than to learn it by
+    re-implementing Wes Bos's JavaScript 30 lessons.
+
+[33mcommit 7d8289cd562388a33bc28075ff77e8d0c057a24c[m
+Merge: a6e76a9 32f1d19
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Tue Sep 25 16:09:39 2018 -0400
+
+    Merge pull request #240 from adrienpoly/patch-1
+    
+    Alternative implementation using Stimulus JS
+
+[33mcommit 32f1d1903e1d0517925a4e065606fd9fb0222ad8[m
+Author: Adrien Poly <adrienpoly@gmail.com>
+Date:   Tue Sep 25 22:08:26 2018 +0200
+
+    Alternative implementation using Stimulus JS
+
+[33mcommit a6e76a98712db01d066c6e65ae853a9fb91a1376[m
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Sep 24 10:31:34 2018 -0400
+
+    move jade links
+
+[33mcommit 24cb3586c04ddd67d335465dae871c2849daeb58[m
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Sep 24 10:25:08 2018 -0400
+
+    add Alternative Implementations
+
+[33mcommit 776dfbe1c08367f1ec5c7b5f0fab7a8e48190644[m
+Merge: ab3af9f 9d6e364
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Sep 24 10:23:32 2018 -0400
+
+    Merge pull request #216 from Ding-Fan/patch-1
+    
+    Add my implementation :heart:
+
+[33mcommit ab3af9f3f4e528cdfd1de0d98247c1c54ea0af3b[m
+Merge: 237b5ec 29489a8
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Sep 24 10:22:53 2018 -0400
+
+    Merge pull request #227 from ElaMoscicka/master
+    
+    Added spacing, semicolons
+
+[33mcommit 237b5ecab928db8abf4fe09ffd047404453c2034[m
+Merge: 6531074 23da79f
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Sep 24 10:22:19 2018 -0400
+
+    Merge pull request #228 from codyMalcolm/master
+    
+    add local copy of video and update src
+
+[33mcommit 6531074412759031c5d8d076d19cacb8cef20623[m
+Merge: 9aa8851 354cab9
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Sep 24 10:22:05 2018 -0400
+
+    Merge pull request #230 from erikaleigh/fix-typo
+    
+    Fix typo in index-FINISHED.html (14. JS References vs Copy)
+
+[33mcommit 9aa885170440fb8e4c248e62c89748baf07c9d6d[m
+Merge: 39aadcf 4ce0a53
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Sep 24 10:21:50 2018 -0400
+
+    Merge pull request #231 from sm0p/patch-1
+    
+    Adding the flex children
+
+[33mcommit 39aadcf08b669f666e93f6f3d1e49fb48afdf118[m
+Merge: d7a3bd2 5ff2503
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Sep 24 10:20:42 2018 -0400
+
+    Merge pull request #232 from dimabory/patch-1
+    
+    Meet new guy in the Wesbos 30 Days Challenge Community
+
+[33mcommit 5ff2503459ed0b34eb67f872145bf4c5febfbb82[m
+Merge: 373e522 d7a3bd2
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Sep 24 10:20:27 2018 -0400
+
+    Merge branch 'master' into patch-1
+
+[33mcommit d7a3bd247dcbcbe2aee2779dc529cb04b8098086[m
+Merge: 43e42de 80a3861
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Sep 24 10:19:57 2018 -0400
+
+    Merge pull request #233 from davefollett/patch-1
+    
+    Added blog series to readme.md
+
+[33mcommit 80a3861aca27d120f3e97878122344eee42b0cec[m
+Merge: 45b85d3 43e42de
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Sep 24 10:19:50 2018 -0400
+
+    Merge branch 'master' into patch-1
+
+[33mcommit 43e42deb2a9280f4fffbf1b1428cb127f4a2c00c[m
+Merge: 50773f9 7385b81
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Sep 24 10:19:31 2018 -0400
+
+    Merge pull request #236 from akhilome/master
+    
+    Add kizito's follow-along repo and notes
+
+[33mcommit 7385b810dea82767818cc0f537a4a42ee4a2c42c[m
+Merge: ff12639 50773f9
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Sep 24 10:19:16 2018 -0400
+
+    Merge branch 'master' into master
+
+[33mcommit 50773f96e116d6d3ed6709029731460ff5036e3f[m
+Merge: daa897a 1bc71e7
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Sep 24 10:18:30 2018 -0400
+
+    Merge pull request #238 from tkjone/patch-1
+    
+    Add community content - ClojureScript
+
+[33mcommit daa897a39f9fe42ecabf6166b9fe82b82da7a097[m
+Merge: be63f4d 686f1fb
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Sep 24 10:17:53 2018 -0400
+
+    Merge pull request #239 from sxnaprkhr/patch-1
+    
+    createObjectURL() has been depreceated.
+
+[33mcommit 686f1fb25163cb188e03d4da05ddca8b683c3778[m
+Author: Prakhar Saxena <prakhar.saxena15@live.in>
+Date:   Sun Sep 16 15:22:50 2018 +0530
+
+    Update scripts-FINISHED.js
+
+[33mcommit e50bf29dceae8504a75fcff6712071c73639c9ba[m
+Author: Prakhar Saxena <saxena.prakhar17@gmail.com>
+Date:   Sun Sep 16 03:20:32 2018 +0530
+
+    createObjectURL() has been depreceated.
+    
+    replaced createObjectURL() with newer syntax.
+
+[33mcommit 1bc71e78862252d504c94620549f1af42ed7fc3f[m
+Author: tkjone <thomasmattacchione@gmail.com>
+Date:   Wed Sep 12 18:48:37 2018 -0400
+
+    Add community content - ClojureScript
+    
+    Thanks Wes!
+
+[33mcommit ff12639b79c71487b99671e67ce33d0271f41489[m
+Author: Kizito Akhilome <kizito@akhilo.me>
+Date:   Fri Aug 24 13:02:13 2018 +0100
+
+    Add kizito's follow-along repo and notes
+
+[33mcommit 29489a81feaefbad2feb8ad890cdbb1c2cc550bb[m
+Merge: 5057eeb be63f4d
+Author: ElaMoscicka <elakorzeniowska@interia.pl>
+Date:   Fri Aug 24 13:05:46 2018 +0200
+
+    Merge branch 'master' into master
+
+[33mcommit 45b85d365871150af79ba7e5a3d1ac986c23f92d[m
+Author: Dave Follett <davefollett@gmail.com>
+Date:   Mon Aug 20 22:04:54 2018 -0400
+
+    Added blog series to readme.md
+    
+    Added a mention of my  A New Vue on #JavaScript30 blog series at https://davefollett.io
+
+[33mcommit 373e522e16f72e5b6b1c808b5425dc6c73120d53[m
+Author: Dmytro Borysovskyi <bbbara10@gmail.com>
+Date:   Tue Aug 14 13:20:34 2018 +0300
+
+    Update readme.md
+
+[33mcommit 01deb6b51d3a573a6c8299019dced7c6c2892af0[m
+Author: Dmytro Borysovskyi <bbbara10@gmail.com>
+Date:   Tue Aug 14 11:45:19 2018 +0300
+
+    Update readme.md
+
+[33mcommit 4ce0a539f2cdd395921a5f2e7252f3e9de0d2410[m
+Author: sm0p <31055027+sm0p@users.noreply.github.com>
+Date:   Mon Aug 13 01:00:27 2018 -0300
+
+    Adding the flex children
+    
+    Adding the flex children commentary showed and wrote in the tutorial but didn't appear in the index-start.html file.
+
+[33mcommit 354cab9c8a7c9221a1c5fd95fc719111f59b277d[m
+Author: erikalleigh <erikalleblanc@gmail.com>
+Date:   Sun Aug 12 13:27:51 2018 -0400
+
+    Fix typo in finished js references vs copy
+
+[33mcommit 23da79fdfca8fbf748856e9675a8c38a9debf518[m
+Author: codyMalcolm <cody@codymalcolm.com>
+Date:   Thu Aug 2 21:47:47 2018 -0400
+
+    add local copy of video and update src
+
+[33mcommit 5057eebe812b86ff24f7efcb8c9409f566dbcc58[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:42:54 2018 +0200
+
+    added spacing
+
+[33mcommit 5f0b93b42b5af9201adb8dc5557023e026211ec7[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:40:09 2018 +0200
+
+    added spacing
+
+[33mcommit 94c876ce91cb1f8085c117280759adce471530f6[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:37:59 2018 +0200
+
+    added spacing
+
+[33mcommit 0433bb11d3e8a40a928b51d0ce850b51ee575a21[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:36:28 2018 +0200
+
+    added spacing
+
+[33mcommit 6a90e00eafaeb8ab53bbe2541ca5f052c3d2ce4e[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:33:58 2018 +0200
+
+    added spacing and semicolon
+
+[33mcommit 746d27962a81d7901b9fd2ebcda54d6a632da080[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:31:46 2018 +0200
+
+    added spacing and semicolon
+
+[33mcommit f509cd8615921b75483e712df86fba333fc74cd1[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:28:34 2018 +0200
+
+    added spacing
+
+[33mcommit f1335000b3efa78bf91580cd8564e8810c19f53f[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:27:40 2018 +0200
+
+    added spacing
+
+[33mcommit 67be633f07b28a18163597bf2a98d896a49b3b60[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:25:54 2018 +0200
+
+    added spacing and semicolon
+
+[33mcommit b1dc2c1a7a864a8f7940204c22959f031b9fb17c[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:24:46 2018 +0200
+
+    added spacing
+
+[33mcommit 55e269e3b1d0c1341ce8624a3f2da66a5b709642[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:21:24 2018 +0200
+
+    added spacing
+
+[33mcommit cb84f74f04feb7a6e448d1a289ce2ef4470c339c[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:17:18 2018 +0200
+
+    added spacing and semicolons
+
+[33mcommit 04e8b0787d61fefc851d3d51ccdf9cbb03e798b1[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:14:12 2018 +0200
+
+    added spacing
+
+[33mcommit 02933760433eed8463f4741b14b4a79e391ea000[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:13:25 2018 +0200
+
+    added spacing
+
+[33mcommit 7b975b42a2e522eb15289996ea500f31843b2d44[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:12:15 2018 +0200
+
+    added spacing
+
+[33mcommit b9d139ab0d0ff738b6a04048d3cdd52a3ae0373e[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:11:32 2018 +0200
+
+    added spacing
+
+[33mcommit fa0097415dfcdcf4c4946a770802567747376b25[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:08:52 2018 +0200
+
+    added spacing
+
+[33mcommit 9061f8d0cda7ea91024a83a2f39da4c24d292d69[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:04:20 2018 +0200
+
+    added spacing
+
+[33mcommit af6f972a8a4e78a6d35980058328f71681bc9c14[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:03:41 2018 +0200
+
+    added spacing
+
+[33mcommit 62a9e5995a8fa27cee2faa2a31e55a042bd062e1[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:02:09 2018 +0200
+
+    added spacing
+
+[33mcommit b681c8a88435b6a6578fc499ef1659e1e443db97[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 23:00:51 2018 +0200
+
+    added spacing
+
+[33mcommit c0e0c269450f567be01df0e9745d16973030289d[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 22:58:25 2018 +0200
+
+    added spacing
+
+[33mcommit 0fd10e0747878c3a4b1c0714c8e90aaacdb85891[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 22:31:59 2018 +0200
+
+    added spacing
+
+[33mcommit 78f0dcd7b9786971680e4d36cf1f509c61a08aa2[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 22:30:44 2018 +0200
+
+    added spacing
+
+[33mcommit 45c3b7ff3e4dc1406ed70da7070dd05b1de3846c[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 22:28:05 2018 +0200
+
+    added spacing
+
+[33mcommit 4de2b4d7ca18ca490221dac62f9008cf0bf002a2[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 22:23:09 2018 +0200
+
+    added spacing
+
+[33mcommit f95a3dbdc275c03a1f7da0b822a3aee31271c286[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 22:22:11 2018 +0200
+
+    added spacing
+
+[33mcommit 72357f3b090391d54a30ddef1dd9b01141310c9f[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 22:18:13 2018 +0200
+
+    added spacing
+
+[33mcommit 5ae2034ead5796ad439718dc68693d5089e409b8[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 22:17:48 2018 +0200
+
+    added spacing
+
+[33mcommit 0cdf28af719a9a630d05430e846e88d03b1306d9[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 22:15:22 2018 +0200
+
+    deleted comma
+
+[33mcommit e48ed9e3f86a207af3620a113f5fa5d75e7f8498[m
+Author: ElaMoscicka <elakorzeniowska@interia.pl>
+Date:   Mon Jul 30 22:09:40 2018 +0200
+
+    added spacing
+
+[33mcommit 039640e5581a2d84598152a4e9604e8b02752c83[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 22:07:15 2018 +0200
+
+    added spacing
+
+[33mcommit fdfec356d2a29d32654a28e9d936b0dcad0f48d7[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 22:06:53 2018 +0200
+
+    added spacing
+
+[33mcommit 9de578f32e53abe212df276a51c2cc0ce649c98f[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 22:05:57 2018 +0200
+
+    added spacing
+
+[33mcommit 2ad5c6d01031c28a20a44e2e0a3a2f58c7491965[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 22:05:01 2018 +0200
+
+    added spacing
+
+[33mcommit 40e0b1366469015d33e241477b46e635404bc7fd[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 22:03:03 2018 +0200
+
+    added spacing
+
+[33mcommit f75cf7ad73df47f6bf014619f1c1796b427d6d1e[m
+Author: ElaMoscicka <a-elmosc@microsoft.com>
+Date:   Mon Jul 30 21:59:53 2018 +0200
+
+    added spacing
+
+[33mcommit 1a154b7c31ad0f8ab09165909b80106e27791631[m
+Author: ElaMoscicka <elakorzeniowska@interia.pl>
+Date:   Mon Jul 30 21:59:06 2018 +0200
+
+    added spacing
+
+[33mcommit 0022cab7e588ba42be7fb4c3de8024c4c00b7afc[m
+Author: ElaMoscicka <elakorzeniowska@interia.pl>
+Date:   Mon Jul 30 21:50:55 2018 +0200
+
+    Update style.css
+
+[33mcommit 9d6e36441ec6aaa139ad60b777bee53c3abcaa51[m
+Merge: 7fdb2ef be63f4d
+Author: 范鼎 <zichuange@gmail.com>
+Date:   Mon Jul 23 10:01:44 2018 +0800
+
+    Merge branch 'master' into patch-1
+
+[33mcommit be63f4ddd72916d3e2d5fadd4bb91f94b5c211e3[m
+Merge: 508e476 4b18521
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Jul 9 09:51:43 2018 -0400
+
+    Merge pull request #222 from herminiotorres/master
+    
+    Add my gh-pages and lessons to README
+
+[33mcommit 4b18521784b8e32a6ee2df2cfeae56823af0a055[m
+Author: Herminio Torres <herminiocesar@gmail.com>
+Date:   Sun Jul 8 09:48:45 2018 -0300
+
+    Add my gh-pages and lessons to README
+    
+    Add my links of the gh-pages and lessons to README in community content.
+
+[33mcommit 7fdb2ef82a4e6491bfe758f6787e010d1269b396[m
+Author: 范鼎 <zichuange@gmail.com>
+Date:   Thu Apr 19 17:22:50 2018 +0800
+
+    Add my implementation :heart:
+
+[33mcommit 508e4765b1548621496d6ce17a92df60c721db29[m
+Merge: f500032 7fa453b
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Wed Mar 21 10:48:42 2018 -0400
+
+    Merge pull request #213 from sky172839465/master
+    
+    Added to Readme.md my name
+
+[33mcommit 7fa453bea10e05d61d31edc7a485dd5139ee3b5d[m
+Author: sky172839465 <sky172839465@gmail.com>
+Date:   Sun Mar 18 10:56:08 2018 +0800
+
+    Update readme add Yusong's Notes
+
+[33mcommit f5000321099459144c3867ecd439bf4c75d85b04[m
+Merge: 3dd7eaa a0369a2
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Feb 16 10:51:38 2018 -0500
+
+    Merge pull request #206 from ElaMoscicka/typosVol2
+    
+    typos&whitespaces improvements
+
+[33mcommit a0369a262358d3a399986cb03796d8dfaf866f7d[m
+Author: Ela Moscicka <a-elmosc@microsoft.com>
+Date:   Fri Feb 16 16:23:04 2018 +0100
+
+    typos&whitespaces improvements
+
+[33mcommit 3dd7eaa705d80adb8cb11ede383a28ae6b7fc08c[m
+Merge: 650e837 d93518e
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Thu Feb 15 18:11:25 2018 -0500
+
+    Merge pull request #204 from sabidhasan/abid-edit
+    
+    Modified readme for link to my solutions
+
+[33mcommit d93518e958b48c4bb679b9e53fbbfd9795a9b53a[m
+Author: Abid Hasan <abidhasan@gmail.com>
+Date:   Mon Feb 5 22:24:03 2018 -0700
+
+    Modified readme for link to my solutions
+
+[33mcommit 650e8370427c41f8d7007719600349e53e436a7d[m
+Merge: 9c26ee6 b8db500
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Jan 29 10:19:46 2018 -0500
+
+    Merge pull request #201 from WispProxy/feature/26-lesson
+    
+    Added small update for 26 lesson - link
+
+[33mcommit b8db500bf517d28cdb7694f42552522595d166e2[m
+Author: WispProxy <hi@VBelozyorov.com>
+Date:   Mon Jan 29 18:13:59 2018 +0300
+
+    Added small update for 26 lesson - link
+
+[33mcommit 9c26ee6258049fd999b0047aad7ab4e345c09915[m
+Merge: 16b576c 683e358
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Jan 29 09:31:09 2018 -0500
+
+    Merge pull request #198 from ElaMoscicka/typos
+    
+    corrected 2 typos
+
+[33mcommit 16b576c3e02f6d5f76babb95a99ceac62efd06fe[m
+Merge: 03605fc 2645501
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Jan 29 09:30:52 2018 -0500
+
+    Merge pull request #199 from guar47/master
+    
+    Update readme.md and add my links
+
+[33mcommit 03605fc19a274d8cfcd444a19ab91243bbd809c6[m
+Merge: c322162 af466bb
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Jan 29 09:29:16 2018 -0500
+
+    Merge pull request #200 from WispProxy/feature/patch-for-26-lesson
+    
+    Added small proposal for 26 lesson
+
+[33mcommit af466bbdb71615c076b14fc895e0b6625b19fdd6[m
+Author: WispProxy <hi@VBelozyorov.com>
+Date:   Sun Jan 28 16:05:07 2018 +0300
+
+    Added small proposal for 26 lesson
+
+[33mcommit 26455017d32876cab56adcd986c972b38c89cfda[m
+Author: Dmitrii Pashutskii <guar47@ya.ru>
+Date:   Sat Jan 13 15:28:57 2018 +0300
+
+    Update readme.md
+
+[33mcommit 683e35810e412394ba5b8db63401a6e63387fef4[m
+Author: Ela Moscicka <a-elmosc@microsoft.com>
+Date:   Fri Jan 12 15:01:38 2018 +0100
+
+    corrected 2 typos
+
+[33mcommit c322162bd9b0b831c1e1152c93826e7021f8535b[m
+Merge: 36c79de 2ed777c
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Jan 5 09:49:22 2018 -0500
+
+    Merge pull request #191 from misslild/misslild-patch-1
+    
+    Added to Readme.md my name
+
+[33mcommit 36c79ded130bf15e467ebfd5f2039a64b85d5eaa[m
+Merge: 6ac0b97 a04be1a
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Jan 5 09:49:04 2018 -0500
+
+    Merge pull request #196 from andrericardo/browser-sync-issue
+    
+    Force browser-sync version less than 2.23.2 having issue in npm start
+
+[33mcommit a04be1ad68ff30dc115de5ab8fc3f1647c3409e9[m
+Author: André Ricardo <andric87@gmail.com>
+Date:   Thu Jan 4 20:43:48 2018 +0000
+
+    Force browser-sync version less than 2.23.2 having issue in npm start
+
+[33mcommit 2ed777ce810ab2d10313c6f3912ae7291882e948[m
+Author: Daniela <daniela.fedyakin@gmail.com>
+Date:   Tue Jan 2 20:08:59 2018 +0100
+
+    Added link to the showcase page
+
+[33mcommit 1d0c0f8187afd72fd7024a4e7832d92e5689fc6c[m
+Author: Daniela <daniela.fedyakin@gmail.com>
+Date:   Wed Dec 27 10:52:06 2017 +0100
+
+    Added to Readme.md my name
+    
+    Added a new bulletpoint with my anme and links to CodePen and GitHub repo :)
+
+[33mcommit 6ac0b97d2eeaea18f876abb4ea15d2eabf941a5c[m
+Merge: 8432fff 26896b9
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Dec 18 10:09:37 2017 -0500
+
+    Merge pull request #182 from guahsu/master
+    
+    Update readme.md
+
+[33mcommit 8432fff26ef9e27014ab3efa7a0d0d5051831af3[m
+Merge: 6caea9e 04ebda4
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Dec 11 11:05:34 2017 -0500
+
+    Merge pull request #187 from maxmeister/master
+    
+    Typo
+
+[33mcommit 04ebda486c3204d702706426103fa60cdd14aa6e[m
+Author: Maksymilian Sielicki <maksymiliansielicki@gmail.com>
+Date:   Sun Dec 10 23:52:51 2017 +0100
+
+    Typo
+
+[33mcommit 6caea9e15a59a87b782a1493bf46ee3e49b92c16[m
+Merge: 5572435 7ca5cf9
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Nov 27 18:48:34 2017 -0500
+
+    Merge pull request #185 from missmatsuko/edit
+    
+    Add person object to day 14 starter file
+
+[33mcommit 7ca5cf953c9ea1ae78fa8dd21a7a32574f198c86[m
+Author: Matsuko Friedland <info@matsuko.ca>
+Date:   Mon Nov 27 13:47:44 2017 -0800
+
+    Add person object to day 14 starter file
+    
+    Shown in starter file in video, missing from actual starter file.
+
+[33mcommit 26896b9cb4d10bc48c910b1e5ca117a7a20f7b04[m
+Author: GuaHsu <guaswork@gmail.com>
+Date:   Wed Nov 22 21:16:00 2017 +0800
+
+    Update readme.md
+    
+    for add GuaHsu's link.
+
+[33mcommit 5572435464a30710dc25e588b7a8a6ce1bca9786[m
+Merge: b022023 9012f5e
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Tue Nov 21 09:14:40 2017 -0500
+
+    Merge pull request #181 from missmatsuko/master
+    
+    Fix typo
+
+[33mcommit 9012f5e93fc15f7e7642adcc7b546e75d8e25819[m
+Author: Matsuko Friedland <info@matsuko.ca>
+Date:   Mon Nov 20 18:52:46 2017 -0800
+
+    Fix typo
+
+[33mcommit b0220235292fc066bc5d703a03fa98db5cf24fa9[m
+Merge: 37c1817 7fe74e9
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Oct 27 10:47:54 2017 -0400
+
+    Merge pull request #177 from dustinhsiao21/master
+    
+    add Dustin Hsiao to readme
+
+[33mcommit 7fe74e90c67a45cd1517555f078d099c3c884a36[m
+Author: dustinhsiao21 <dustinhsiao21@gmail.com>
+Date:   Fri Oct 27 10:25:39 2017 +0800
+
+    add Dustin Hsiao to readme
+
+[33mcommit 37c1817709bfddd1a3272f45adbbc67fa0ff998c[m
+Merge: 724fa38 465e216
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Tue Oct 17 14:42:45 2017 -0400
+
+    Merge pull request #171 from lfkeitel/add-blog-link
+    
+    Added link to my blog
+
+[33mcommit 465e2162024bd43759e3a253437ed5883d2e4779[m
+Author: Lee Keitel <lee@keitel.xyz>
+Date:   Sat Oct 14 21:43:05 2017 -0500
+
+    Added link to my blog
+
+[33mcommit 724fa38ea0b6b3cd6c9a342d3b6f03c0281b786f[m
+Merge: 233ad37 7df99a9
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Oct 6 09:59:11 2017 -0400
+
+    Merge pull request #165 from miayam/miayam-js30-implementation
+    
+    Add link to my blog so everyone can learn from it.
+
+[33mcommit 233ad375c67dba44db2e1638feb0f8ecb7736f28[m
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Thu Sep 28 09:00:57 2017 -0400
+
+    Update PULL_REQUEST_TEMPLATE.md
+
+[33mcommit 1973e89e86e3b6fce0f960ee74876103ce2f1282[m
+Merge: cd828d8 f3f8040
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Thu Sep 28 08:58:11 2017 -0400
+
+    Merge pull request #166 from DublinCity/master
+    
+    rm unused selector 'a'
+
+[33mcommit f3f80403d8dc7c6c95e67ad9976ddb428f40b103[m
+Author: dublinCity <rnrjsah789@gmail.com>
+Date:   Thu Sep 28 15:34:32 2017 +0900
+
+    rm unused selector 'a'
+
+[33mcommit 7df99a9c3eb5beb5cddec07ea04c3db96470d321[m
+Author: Muhammad D. Ramadhan <muhammaddeni90@gmail.com>
+Date:   Thu Sep 28 13:19:49 2017 +0700
+
+    Add link to my blog so everyone can learn from it. This is my approach
+    to finish 30 day JavaScript challenge. I hope everyone can benefit from it.
+
+[33mcommit cd828d8869ab18249eec0052c868e54576321ca8[m
+Merge: 41ad4cb e359fd3
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Thu Sep 21 09:14:14 2017 -0400
+
+    Merge pull request #159 from dwatow/patch-1
+    
+    add Chris link in readme.md
+
+[33mcommit 41ad4cb33e8255c9f848bfddf102755697710c71[m
+Merge: cbe8ee7 cbfa6cd
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Thu Sep 7 19:16:26 2017 -0400
+
+    Merge pull request #161 from jscott313/master
+    
+    Changed to escaped double-quotes to fix browser-sync
+
+[33mcommit cbfa6cdf70bc3fd1888f38af1f9b30e21e49fce2[m
+Author: Joshua Scott <jscott313@gmail.com>
+Date:   Thu Sep 7 19:01:05 2017 +0300
+
+    Changed to escaped double-quotes to fix browser-sync
+    The 'files' argument was being passed to browser-sync inside single quotes. These aren't recognised when the script runs, so hot-reloading was only listening for changes on the html file.
+    Switching to escaped double quotes fixes this.
+
+[33mcommit cbe8ee7b743a8311dcce69462f9c8d5be623594d[m
+Merge: d2f59f8 5eef705
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Wed Sep 6 11:07:49 2017 -0400
+
+    Merge pull request #160 from caleywoods/master
+    
+    fix missing unsplash.it background-image for .panel2
+
+[33mcommit 5eef7059a119ba1af67641dfff8052a222d9b48f[m
+Author: Caley Woods <caley.w@gmail.com>
+Date:   Tue Sep 5 19:39:58 2017 -0500
+
+    fix missing unsplash.it background-image for .panel2
+
+[33mcommit e359fd333d60c2eaf9c354c57013b313a85082b6[m
+Author: Chris <dwatow@gmail.com>
+Date:   Tue Sep 5 15:06:31 2017 +0800
+
+    add Chris link in readme.md
+
+[33mcommit d2f59f8f1471a010573275f529fb7e1425d62924[m
+Merge: ff79e52 c4f5af4
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Sep 4 08:42:47 2017 -0400
+
+    Merge pull request #158 from jscott313/fix-twitter-typo
+    
+    Fixed typo ('twiter' to 'twitter')
+
+[33mcommit c4f5af437e539e36960bcd1b840b841300d8a286[m
+Author: Joshua Scott <jscott313@gmail.com>
+Date:   Mon Sep 4 13:39:27 2017 +0300
+
+    Fixed typo ('twiter' to 'twitter')
+
+[33mcommit ff79e521f1b21e31a5e3fdc4a0270d8299aae812[m
+Merge: d3c5ad6 04f70e6
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Aug 25 15:39:40 2017 -0400
+
+    Merge pull request #155 from afuh/patch-1
+    
+    Update readme.md
+
+[33mcommit 04f70e6a64ae84106103b29e42b151a2eea58011[m
+Author: Axel <axelfuh@gmail.com>
+Date:   Sat Aug 12 10:11:15 2017 +0200
+
+    Update readme.md
+
+[33mcommit d3c5ad6476a60a4fc5540ae1051483fb180a7ace[m
+Merge: 6c69548 d946797
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Aug 11 16:09:52 2017 -0400
+
+    Merge pull request #134 from Rayhatron/master
+    
+    Rayhatron blog
+
+[33mcommit d94679746aea5213ccd4ebefd0cb72df599d6472[m
+Merge: c9c577e 6c69548
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Aug 11 16:09:47 2017 -0400
+
+    Merge branch 'master' into master
+
+[33mcommit 6c695484516f76cee0f8e52ceb2f2c1943fbb593[m
+Merge: 1361c6d 8e13b85
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Aug 11 16:07:21 2017 -0400
+
+    Merge pull request #144 from andreidbr/patch-1
+    
+    Adding my link
+
+[33mcommit 8e13b85c998c6ae52824de709f070ee9ef1e5352[m
+Merge: f72dd2f 1361c6d
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Aug 11 16:07:15 2017 -0400
+
+    Merge branch 'master' into patch-1
+
+[33mcommit 1361c6d39c4055470bf8d8f310a0a103a2966e4a[m
+Merge: 0752f62 d6837c3
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Aug 11 16:06:50 2017 -0400
+
+    Merge pull request #147 from fullstacktribe/master
+    
+    Update readme.md
+
+[33mcommit d6837c3af919469561b8c7b02daeaedc8df1c47d[m
+Merge: ee87146 0752f62
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Aug 11 16:06:44 2017 -0400
+
+    Merge branch 'master' into master
+
+[33mcommit 0752f62651988be0fa2e062faf874234ffb364ea[m
+Merge: 2d75824 6cc072a
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Aug 11 16:05:20 2017 -0400
+
+    Merge pull request #151 from usyyy/master
+    
+    Update to readme
+
+[33mcommit 2d75824b38f3d77cf788f930db4a2740ba02c8ec[m
+Merge: 6eba5a4 96e89a7
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Aug 11 16:04:38 2017 -0400
+
+    Merge pull request #154 from venikman/master
+    
+    Saying to browser listen for english.
+
+[33mcommit 6eba5a466f3e3e4e22105aa987b0f706cf46b6d6[m
+Merge: 00dbfc5 dcaac02
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Aug 11 16:04:00 2017 -0400
+
+    Merge pull request #152 from snopeks/patch-1
+    
+    video link appears broken
+
+[33mcommit 96e89a7b5f32ad1b34263f552bf5a723777d5b38[m
+Author: Stanislau Niadbailau <nedbailov375426@gmail.com>
+Date:   Fri Aug 11 08:00:56 2017 -0400
+
+    Saying to browser listen for english.
+    
+    Ihad russian settings on my browser but i wanted to speak english and thats how i have fixed it.
+
+[33mcommit dcaac02cf8834ec5fa83e423f7aab6acce4ac0a0[m
+Author: Stephanie Snopek <creativesnopeks@gmail.com>
+Date:   Tue Aug 8 22:22:27 2017 -0700
+
+    fix broken video link
+    
+    Hi! The dropbox video link seems to be invalid, so I've replaced it with a video from http://camendesign.com/code/video_for_everybody/test.html. It looks like it's creative-commons licensed, so I think we can use it (not a lawyer!).
+
+[33mcommit c696cd2ffca97439cbdcb34a7977d79a6016cdfc[m
+Author: Stephanie Snopek <creativesnopeks@gmail.com>
+Date:   Tue Aug 8 22:19:11 2017 -0700
+
+    fix broken video link
+    
+    Hi! The dropbox video link seems to be invalid, so I've replaced it with a video from http://camendesign.com/code/video_for_everybody/test.html. It looks like it's creative-commons licensed, so I think we can use it (not a lawyer!).
+
+[33mcommit 6cc072a4ccf51b564e1d256d47ff57de8f14e016[m
+Author: usyyy <usmaanalii@hotmail.co.uk>
+Date:   Fri Aug 4 20:21:01 2017 +0100
+
+    I really enjoyed the course, and decided to pay it forward by writing a
+    document detailing all of the technical things I learned from each day.
+    
+    It's a little long, so I've decided to post each day as a separate blog
+    on medium.
+    
+    Both links have been added to the readme.
+    
+    Keep up the good work!
+
+[33mcommit ee871463ed18328981248c56c7e461924fab00c7[m
+Author: 春哥 <liyuechun2009@163.com>
+Date:   Wed Jul 19 09:39:53 2017 +0800
+
+    Update readme.md
+    
+    从零到壹全栈部落
+
+[33mcommit f72dd2f8277382b4a71cac261274eb9bec8d9ec0[m
+Author: Andrei Dobra <andrey.dobra@gmail.com>
+Date:   Sat Jun 17 17:06:31 2017 +0300
+
+    Adding my link
+    
+    Added my links to the repo and the working exercises
+
+[33mcommit c9c577edc3fa7822665f6efbc6d124676b37ea9b[m
+Author: Rufaro Madamombe <rayhatron@gmail.com>
+Date:   Thu May 4 14:14:03 2017 +0200
+
+    Rayhatron blog
+    
+    Added my blog to the list.
+
+[33mcommit 00dbfc52240b58e076a8ac1e65bc6711e4151a32[m
+Merge: ad48fac a47295b
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Tue Apr 18 16:42:14 2017 -0400
+
+    Merge pull request #131 from PabloCarmona/PabloCarmona-patch-1
+    
+    Hide mole fixed on the challenge #30
+
+[33mcommit ad48facd5403ad9576483332051913d154f0597a[m
+Merge: c10b9e2 0347464
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Tue Apr 18 16:41:12 2017 -0400
+
+    Merge pull request #127 from AriLFrankel/master
+    
+    typo fix in 03 - CSS variables
+
+[33mcommit c10b9e2b14de6ceb1f71ee32788c4b1fed5464a2[m
+Merge: 2bc30a0 e1dd03b
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Tue Apr 18 16:41:00 2017 -0400
+
+    Merge pull request #130 from digilou/patch-1
+    
+    removed e parameter
+
+[33mcommit a47295beef5419dbf474caae35fee223b63e890f[m
+Author: Pablo Carmona <pablocarmonagonzalez@gmail.com>
+Date:   Tue Apr 18 17:30:09 2017 +0200
+
+    Update index-FINISHED.html
+    
+    I found that if you don't call the parentNode the value of this point to the mole and the class was added to the hole. BTW, the remove class didn't worked.
+
+[33mcommit e1dd03bca22d52a5efd7b2ecae93df1f3cec62f0[m
+Author: Amy Carney <digilou@users.noreply.github.com>
+Date:   Wed Apr 12 12:19:36 2017 -0800
+
+    removed e parameter
+
+[33mcommit 0347464eb5f5acd403f47fd52cebdc37af530893[m
+Author: Ari Leo Frankel <ari.l.frankel@gmail.com>
+Date:   Wed Mar 29 20:49:39 2017 -0500
+
+    rm redundant body tags - FINISH
+
+[33mcommit 81418c8fc68e90c51c81fb83c4e4fd66075bcdd4[m
+Author: Ari Leo Frankel <ari.l.frankel@gmail.com>
+Date:   Wed Mar 29 20:49:06 2017 -0500
+
+    rm redundant body tags
+
+[33mcommit 2bc30a07a5b043cf5d3138a489ebd165e804a321[m
+Merge: 6faed6d bd1f5f8
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Wed Mar 15 08:56:22 2017 -0400
+
+    Merge pull request #124 from cbejensen/patch-1
+    
+    fixed type-o in webkit-slider-runnable-track
+
+[33mcommit bd1f5f858b70f8658f6896fce5f3b017f5d0248b[m
+Author: Christian Jensen <cbejensen@gmail.com>
+Date:   Wed Mar 15 01:46:43 2017 -0600
+
+    fixed type-o in webkit-slider-runnable-track
+
+[33mcommit 6faed6df3f238f2745fc86b57eb3b3a90b7fd379[m
+Merge: 2474f49 834a9d7
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Mar 10 07:18:28 2017 -0500
+
+    Merge pull request #116 from apopitich/fix-transition
+    
+    fix transition
+
+[33mcommit 2474f498a16547b1098f81a66cafe6c3ac23c869[m
+Merge: bbc21a1 5952ae1
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Mar 10 07:18:03 2017 -0500
+
+    Merge pull request #118 from onebree/patch-1
+    
+    Fixed typo for paintToCanvas
+
+[33mcommit bbc21a1839c95b148e9a9ca75bd640eb96ad2da0[m
+Merge: 85bff53 0cbfde1
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Mar 10 07:17:42 2017 -0500
+
+    Merge pull request #120 from winar-jin/patch-1
+    
+    Update readme.md
+
+[33mcommit 85bff53e3409c899a673dcd66e1914921bee490c[m
+Merge: 423ca11 98cfbd3
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Mar 10 07:17:13 2017 -0500
+
+    Merge pull request #122 from apopitich/fix-slider-position
+    
+    fix slider position
+
+[33mcommit 98cfbd3d49ff2825d8e9752464bd5f65b9a217de[m
+Author: Alexander Popitich <alexander.popitich@gmail.com>
+Date:   Mon Mar 6 22:34:18 2017 +0300
+
+    fix slider position
+
+[33mcommit 423ca11aa74ae887182abd4f9c97e343702e6e80[m
+Merge: d452734 f53913e
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Mar 6 14:22:26 2017 -0500
+
+    Merge pull request #121 from apopitich/rm-unused-selectors
+    
+    rm unused selectors
+
+[33mcommit f53913e6e68e3598b70920ec7b9f2a106a397cce[m
+Author: Alexander Popitich <alexander.popitich@gmail.com>
+Date:   Mon Mar 6 22:19:33 2017 +0300
+
+    rm unused selectors
+
+[33mcommit 0cbfde12ffa28acbd2ff8757e8024fdd4202a0ad[m
+Author: 徐进 <winar-jin@users.noreply.github.com>
+Date:   Sun Mar 5 02:30:57 2017 +0800
+
+    Update readme.md
+
+[33mcommit d4527343a5fe35fd499b09973c216432629a7e55[m
+Merge: cfb9276 2cb6e37
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Feb 24 11:43:09 2017 -0500
+
+    Merge pull request #119 from onebree/patch-2
+    
+    Fixed broken link in community content
+
+[33mcommit 2cb6e37a9769967480db9ad79cf6dcb921cf16dc[m
+Author: Hunter Stevens <onebree@gmail.com>
+Date:   Fri Feb 24 11:42:38 2017 -0500
+
+    Fixed broken link in community content
+
+[33mcommit 5952ae160e48a9a04e5d943d0957368ba2b1dada[m
+Author: Hunter Stevens <onebree@gmail.com>
+Date:   Fri Feb 24 11:38:07 2017 -0500
+
+    Fixed typo for paintToCanvas
+
+[33mcommit 834a9d76eb9238c0cc419519ab756549e09a762d[m
+Author: Alexander Popitich <alexander.popitich@gmail.com>
+Date:   Thu Feb 23 20:45:32 2017 +0300
+
+    fix transition
+
+[33mcommit cfb9276e64de175548d655501ae7478c7f5b3ec8[m
+Merge: c26e14d eddaf90
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Thu Feb 23 10:03:33 2017 -0500
+
+    Merge pull request #115 from amelieyeh/hello-from-taiwan
+    
+    Hello PR from Taiwan
+
+[33mcommit eddaf90131fbdbd868cabe11ba578e054b79ba39[m
+Author: Amelie Yeh <amelieyeh@gmail.com>
+Date:   Thu Feb 23 21:29:02 2017 +0800
+
+    Hi, @wesbos here is my PR. Please let me know if there is any issues, thank you!
+
+[33mcommit c26e14de2559daff232a13a309723d91ef54aa73[m
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Wed Feb 22 11:22:25 2017 -0500
+
+    daywaywhat
+
+[33mcommit 04bf4d077751180f6a027a24a1c10aabcc1a132c[m
+Merge: 86bade4 6bc03c7
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Feb 20 20:26:02 2017 -0500
+
+    Merge pull request #114 from apopitich/fix-vertical-scrollbar
+    
+    hide vertical scrollbar
+
+[33mcommit 6bc03c7ccf56caedf20537ff12a866c64f6e8625[m
+Author: Alexander Popitich <alexander.popitich@gmail.com>
+Date:   Mon Feb 20 22:05:14 2017 +0300
+
+    hide vertical scrollbar
+
+[33mcommit 86bade4434594bf60666e71b10f1d598375c8856[m
+Merge: a799bd3 0fbaa78
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Wed Feb 15 14:19:11 2017 -0500
+
+    Merge pull request #112 from apopitich/fix-extra-code
+    
+    fix extra code
+
+[33mcommit 0fbaa78ab9dfad61241732f53ec215340e9de67a[m
+Author: Alexander Popitich <alexander.popitich@gmail.com>
+Date:   Wed Feb 15 22:12:34 2017 +0300
+
+    fix extra code
+
+[33mcommit a799bd37cabbe7e1a5cc62ea541fda46d53e0b09[m
+Merge: ea40f65 bf19b96
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Tue Feb 14 14:10:08 2017 -0500
+
+    Merge pull request #111 from apopitich/rm-overwritten-styles
+    
+    rm overwritten styles
+
+[33mcommit bf19b968a8ce9f6a9aaee1c7f5ab30bcaa2ed8f8[m
+Author: Alexander Popitich <alexander.popitich@gmail.com>
+Date:   Tue Feb 14 20:40:11 2017 +0300
+
+    rm overwritten styles
+
+[33mcommit ea40f65b74fa8b66b8ffd606dc32239c08fa2820[m
+Merge: 66ed54e 0e16a0d
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Feb 13 15:13:23 2017 -0500
+
+    Merge pull request #110 from apopitich/fix-bg-attachment
+    
+    fix background-attachment
+
+[33mcommit 0e16a0d01121b87e09a7b3d564c6e3f07cb9d851[m
+Author: Alexander Popitich <alexander.popitich@gmail.com>
+Date:   Mon Feb 13 22:30:06 2017 +0300
+
+    fix background-attachment
+
+[33mcommit 66ed54e929c09b425e56ead93843051b9d2ecf00[m
+Merge: 61184a2 a5592bc
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Feb 13 14:19:43 2017 -0500
+
+    Merge pull request #108 from apopitich/fix-incorrect-styles
+    
+    Fix incorrect styles
+
+[33mcommit a5592bc23dda94e34fe0100340f9f6e7fa611862[m
+Author: Alexander Popitich <a_popitich@wargaming.net>
+Date:   Wed Feb 8 10:53:51 2017 +0300
+
+    fix incorrect styles
+
+[33mcommit 61184a28bc27ddd33c355a9f96315d7fb8fecff8[m
+Merge: 2516cfb 351e49a
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Feb 13 12:44:13 2017 -0500
+
+    Merge pull request #109 from apopitich/add-idea-to-gitignore
+    
+    add .idea to gitignore
+
+[33mcommit 351e49af15afe6c7249453a28c3aa33d8891a335[m
+Author: Alexander Popitich <alexander.popitich@gmail.com>
+Date:   Mon Feb 13 19:37:20 2017 +0300
+
+    add .idea to gitignore
+
+[33mcommit 2516cfbb7e41648e21da9cb0bee3d3cc2e74c5fb[m
+Merge: 3f0915d deae852
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Thu Feb 2 09:19:12 2017 -0500
+
+    Merge pull request #106 from yhabib/master
+    
+    Hi, @wesbos here's my submission. Let me know if there's any issues :)
+
+[33mcommit deae8527aeaccf333095c2cbc4fd17a4d4a5b0be[m
+Author: Yusef Habib <habibfernandez@gmail.com>
+Date:   Tue Jan 31 16:45:32 2017 +0100
+
+    Link added to readme
+
+[33mcommit 3f0915de3967a879c3018c1466c420912835e712[m
+Merge: 0277226 35706ab
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Jan 23 08:28:12 2017 -0500
+
+    Merge pull request #101 from akinjide/master
+    
+    add Akinjide to readme
+
+[33mcommit 0277226037e83340875fe8346e94eb80432932e6[m
+Merge: d740cdf 09b1974
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Jan 23 08:27:45 2017 -0500
+
+    Merge pull request #102 from arjunkhode/master
+    
+    Added Arjun Khode's blog to readme
+
+[33mcommit 09b19746f1c0fe4037bec55af94d32bbf5eed7f6[m
+Author: arjunkhode <arjunkhode@gmail.com>
+Date:   Sun Jan 22 17:28:15 2017 -0800
+
+    Added Arjun Khode's blog to readme
+
+[33mcommit 35706ab14b20091bcce7ee5d689e7e44cf2b81e3[m
+Author: Akinjide Bankole <r@akinjide.me>
+Date:   Sun Jan 22 19:26:15 2017 +0100
+
+    add Akinjide to readme
+
+[33mcommit d740cdfa4e2c8dba6a6113953f5416224cccdff1[m
+Merge: 95dd471 6f17aa3
+Author: wesbos <wesbos@gmail.com>
+Date:   Wed Jan 18 15:46:20 2017 -0500
+
+    Merge branch 'master' of github.com:wesbos/JavaScript30
+
+[33mcommit 95dd471929c5bf4a5c3b58bb74b8523edf7f9b4b[m
+Author: wesbos <wesbos@gmail.com>
+Date:   Wed Jan 18 15:46:13 2017 -0500
+
+    added some fullscreen CSS
+
+[33mcommit 6f17aa36b8e4a7ead7cc05f76cf6b1cb82f766ad[m
+Merge: fd267a6 85366a2
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Tue Jan 17 10:11:13 2017 -0500
+
+    Merge pull request #98 from Murkrage/master
+    
+    Add Mike Ekkel to bloglist
+
+[33mcommit fd267a65be8edd0e9828a38411ffc5aa6183e153[m
+Merge: 5c8d898 37a47db
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Tue Jan 17 10:10:59 2017 -0500
+
+    Merge pull request #99 from nadgerz/master
+    
+    Rename Day2 project name to have the word 'and' instead of the plus (…
+
+[33mcommit 37a47dbe9d234255d7bac31d3ccc4a609c18ab27[m
+Author: Stephen A. Ingram <stephen.a.ingram@gmail.com>
+Date:   Mon Jan 16 21:00:41 2017 +0100
+
+    Rename Day2 project name to have the word 'and' instead of the plus (+) sign as this can confuse URLs
+
+[33mcommit 85366a294c26ce4bb9f10ff7702fa715c6ed58f8[m
+Author: Mike Ekkel <mikeekkel@gmail.com>
+Date:   Mon Jan 16 11:55:37 2017 +0100
+
+    Add Mike Ekkel to bloglist
+
+[33mcommit 5c8d898676e83ce450bf993656853e1404f6a699[m
+Merge: 6091976 40471a5
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Thu Jan 12 10:04:50 2017 -0500
+
+    Merge pull request #95 from Daedalustx/master
+    
+    add Michael Einsohn to readme
+
+[33mcommit 40471a5a4430c669ca0131d87bb616cf12aad12d[m
+Author: Daedalustx <daedalus_me@mac.com>
+Date:   Wed Jan 11 22:29:00 2017 -0600
+
+    add Michael Einsohn to readme
+
+[33mcommit 609197646b3777d07df0944a8b90cb8c058ce765[m
+Merge: cfe11ce c392dde
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Wed Jan 11 08:44:27 2017 -0500
+
+    Merge pull request #94 from rbastiansch/master
+    
+    change append() to appendChild()
+
+[33mcommit c392dde7730034f29e11ee6d315b6c70d436fda4[m
+Author: Rafael Bastiansch <rafaelbastiansch@gmail.com>
+Date:   Tue Jan 10 23:16:16 2017 -0200
+
+    change append() to appendChild
+
+[33mcommit cfe11ce108591b9eada58e09e154f1e6ee3c5e68[m
+Merge: 787a96c 933cab7
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Sat Jan 7 20:37:21 2017 -0500
+
+    Merge pull request #93 from stpCollabr8nLstn/setup
+    
+    add Adriana Rios to readme
+
+[33mcommit 933cab7569cdbefe1526604425c225fe67a693a8[m
+Author: amrios <amrios2817@gmail.com>
+Date:   Sat Jan 7 12:25:06 2017 -0600
+
+    add Adriana Rios to readme
+
+[33mcommit 787a96c2a0c4e71ec446b90611a5bd8c6f86006e[m
+Author: wesbos <wesbos@gmail.com>
+Date:   Fri Jan 6 15:50:53 2017 -0500
+
+    👋
+
+[33mcommit 473cb9e3c281fb1f51790b2493ebde2465377eb9[m
+Merge: aa9a258 07791fb
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Fri Jan 6 15:45:34 2017 -0500
+
+    Merge pull request #91 from ayoisaiah/master
+    
+    Add link to Ayo Isaiah's recaps and lessons learned
+
+[33mcommit 07791fb178c17b67bf538dba4d44339c12c62aac[m
+Author: Ayo Isaiah <sudo@ayoisaiah.com>
+Date:   Fri Jan 6 00:48:12 2017 +0100
+
+    Add link to Ayo Isaiah's recaps and lessons learned
+
+[33mcommit aa9a2587636ddbb0874b88873d32c281a7c01495[m
+Merge: 2a91d1f 2a1ce0d
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Thu Jan 5 10:34:17 2017 -0500
+
+    Merge pull request #89 from soyaine/master
+    
+    add a link to Chinese guides (in README)
+
+[33mcommit 2a1ce0d8127783d25a36d7b091dc51fdde02fcce[m
+Author: 缉熙 <soyaine@outlook.com>
+Date:   Thu Jan 5 22:34:50 2017 +0800
+
+    add the Chinese description
+
+[33mcommit f308b269a449d4891af178a1b46d2a0f5c5f5efa[m
+Author: 缉熙 <soyaine@outlook.com>
+Date:   Thu Jan 5 17:37:56 2017 +0800
+
+    add the chinese guides link
+
+[33mcommit 2a91d1fd1fc7b848e65cf31c6d08e45602c963ca[m
+Merge: b9bb909 44eddc2
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Wed Jan 4 17:49:40 2017 -0500
+
+    Merge pull request #88 from 416serg/patch-5
+    
+    you sure did forget it here too lol
+
+[33mcommit 44eddc2eef72aebcad5d6b213741edac975877d3[m
+Author: Sergiy Dybskiy <me@416serg.com>
+Date:   Wed Jan 4 17:40:51 2017 -0500
+
+    you sure did forget it here too lol
+
+[33mcommit b9bb9096d86f3ce6e34b7ce22358c00f0f5230dd[m
+Merge: 9b86ac1 2895192
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Wed Jan 4 17:17:49 2017 -0500
+
+    Merge pull request #86 from 416serg/patch-4
+    
+    forgot the closing </ul>
+
+[33mcommit 9b86ac196b4fd5800f6b19163286eee3d7d1a68f[m
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Wed Jan 4 17:17:14 2017 -0500
+
+    Added Community section
+
+[33mcommit 2895192834c82ae660172752ee8ebc5cd6a17e08[m
+Author: Sergiy Dybskiy <me@416serg.com>
+Date:   Wed Jan 4 16:38:24 2017 -0500
+
+    forgot the closing </ul>
+
+[33mcommit deb005d066188241c816cffc62c6d5f6e4e47310[m
+Merge: 7c9030e 8b09f1d
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Jan 2 16:59:33 2017 -0500
+
+    Merge pull request #84 from FranDias/01-css-spacing-and-rems
+    
+    converted to rems and added a space between `rule: value`
+
+[33mcommit 8b09f1d58c720dc8c4054c0554af933b45c00642[m
+Author: Francisco Dias <fdias@hubspot.com>
+Date:   Mon Jan 2 12:33:42 2017 -0500
+
+    converted to rems and added a space between `rule: value`
+
+[33mcommit 7c9030e456db6064b821dbd878196774cfeb7c92[m
+Merge: 8010f0f 4ab70b2
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Sun Jan 1 13:20:05 2017 -0500
+
+    Merge pull request #82 from claudiopro/upstream-mirror
+    
+    Sets Hold Shift and Check Checkboxes page title
+
+[33mcommit 4ab70b2d19c329033effe81406106ff63ef4b9c3[m
+Author: claudiopro <claudio.procida@gmail.com>
+Date:   Sat Dec 31 14:19:15 2016 +0100
+
+    Sets page title
+
+[33mcommit 8010f0fcfd67157e7923d0abe4a799a0c895a398[m
+Merge: a266831 3eddb45
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Mon Dec 26 10:38:12 2016 -0500
+
+    Merge pull request #76 from adildostmohamed/bug/accessiblity-03
+    
+    Accessibility fix: Added id attribute to input elements that equals t…
+
+[33mcommit 3eddb459014b0042241fd455c61c3e75183ee9b7[m
+Author: Adil <adil_dostmohamed@yahoo.co.uk>
+Date:   Sun Dec 25 22:54:27 2016 +0300
+
+    Accessibility fix: Added id attribute to input elements that equals the for attribute of the corresponding label element so that correct label is read out to screenreader when input is focussed on and puts focus on input element if the corresponding label is clicked
+
+[33mcommit a266831badd996ad767bf84fe99c95b53a95280f[m
+Merge: 0c3e82a 561b33b
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Sat Dec 24 18:34:38 2016 -0500
+
+    Merge pull request #75 from aaemnnosttv/pr/04-missing-comma
+    
+    Add missing comma
+
+[33mcommit 561b33ba9673d31dd9580bacb32ab08c6d240066[m
+Author: Evan Mattson <me@aaemnnost.tv>
+Date:   Sun Dec 25 01:21:06 2016 +0200
+
+    add missing comma
+
+[33mcommit 0c3e82a8ff2ef084987e51c058691ab4bd24ca1b[m
+Merge: ad4a950 5b8505c
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Sat Dec 24 08:50:01 2016 -0500
+
+    Merge pull request #73 from antibland/patch-1
+    
+    Update style.css
+
+[33mcommit 5b8505c35d297bdf1b07bd49d4cf34099c1b9935[m
+Author: Andy Hoffman <antibland@gmail.com>
+Date:   Fri Dec 23 13:48:33 2016 -0800
+
+    Update style.css
+    
+    Removes some transform jankiness in Chrome 55 (haven't tested earlier versions, but suspect it's there, too). https://video.twimg.com/tweet_video/C0ZCNbXVIAAUI0Q.mp4
+
+[33mcommit ad4a950ee29756ee5b600b2905925fcb1133c0fc[m
+Merge: fe83039 9747220
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Thu Dec 22 19:44:38 2016 -0500
+
+    Merge pull request #67 from sahil865gupta/master
+    
+    Fixed angles for hour and min
+
+[33mcommit 974722099b5267bc4e9e8cdbb179f0f4f81fffb2[m
+Author: sahil865gupta <sahil865gupta@gmail.com>
+Date:   Wed Dec 21 20:33:59 2016 +0530
+
+    Fixed angles for hour and min
+
+[33mcommit fe83039b0fa0b797874c5afa25fa35f7a124b43c[m
+Merge: 2b9e008 9baeccf
+Author: Wes Bos <wesbos@gmail.com>
+Date:   Tue Dec 20 14:40:06 2016 -0500
+
+    Merge pull request #64 from dap6000/flavours
+    
+    Flavours array
